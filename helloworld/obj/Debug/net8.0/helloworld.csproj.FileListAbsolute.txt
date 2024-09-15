@@ -1,0 +1,15 @@
+e:\School\CS50_csharp_clone\helloworld\bin\Debug\net8.0\helloworld.exe
+e:\School\CS50_csharp_clone\helloworld\bin\Debug\net8.0\helloworld.deps.json
+e:\School\CS50_csharp_clone\helloworld\bin\Debug\net8.0\helloworld.runtimeconfig.json
+e:\School\CS50_csharp_clone\helloworld\bin\Debug\net8.0\helloworld.dll
+e:\School\CS50_csharp_clone\helloworld\bin\Debug\net8.0\helloworld.pdb
+e:\School\CS50_csharp_clone\helloworld\obj\Debug\net8.0\helloworld.GeneratedMSBuildEditorConfig.editorconfig
+e:\School\CS50_csharp_clone\helloworld\obj\Debug\net8.0\helloworld.AssemblyInfoInputs.cache
+e:\School\CS50_csharp_clone\helloworld\obj\Debug\net8.0\helloworld.AssemblyInfo.cs
+e:\School\CS50_csharp_clone\helloworld\obj\Debug\net8.0\helloworld.csproj.CoreCompileInputs.cache
+e:\School\CS50_csharp_clone\helloworld\obj\Debug\net8.0\helloworld.sourcelink.json
+e:\School\CS50_csharp_clone\helloworld\obj\Debug\net8.0\helloworld.dll
+e:\School\CS50_csharp_clone\helloworld\obj\Debug\net8.0\refint\helloworld.dll
+e:\School\CS50_csharp_clone\helloworld\obj\Debug\net8.0\helloworld.pdb
+e:\School\CS50_csharp_clone\helloworld\obj\Debug\net8.0\helloworld.genruntimeconfig.cache
+e:\School\CS50_csharp_clone\helloworld\obj\Debug\net8.0\ref\helloworld.dll
