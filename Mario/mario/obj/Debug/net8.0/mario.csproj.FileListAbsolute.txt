@@ -1,0 +1,15 @@
+E:\School\CS50_csharp_clone\Mario\mario\bin\Debug\net8.0\mario.exe
+E:\School\CS50_csharp_clone\Mario\mario\bin\Debug\net8.0\mario.deps.json
+E:\School\CS50_csharp_clone\Mario\mario\bin\Debug\net8.0\mario.runtimeconfig.json
+E:\School\CS50_csharp_clone\Mario\mario\bin\Debug\net8.0\mario.dll
+E:\School\CS50_csharp_clone\Mario\mario\bin\Debug\net8.0\mario.pdb
+E:\School\CS50_csharp_clone\Mario\mario\obj\Debug\net8.0\mario.GeneratedMSBuildEditorConfig.editorconfig
+E:\School\CS50_csharp_clone\Mario\mario\obj\Debug\net8.0\mario.AssemblyInfoInputs.cache
+E:\School\CS50_csharp_clone\Mario\mario\obj\Debug\net8.0\mario.AssemblyInfo.cs
+E:\School\CS50_csharp_clone\Mario\mario\obj\Debug\net8.0\mario.csproj.CoreCompileInputs.cache
+E:\School\CS50_csharp_clone\Mario\mario\obj\Debug\net8.0\mario.sourcelink.json
+E:\School\CS50_csharp_clone\Mario\mario\obj\Debug\net8.0\mario.dll
+E:\School\CS50_csharp_clone\Mario\mario\obj\Debug\net8.0\refint\mario.dll
+E:\School\CS50_csharp_clone\Mario\mario\obj\Debug\net8.0\mario.pdb
+E:\School\CS50_csharp_clone\Mario\mario\obj\Debug\net8.0\mario.genruntimeconfig.cache
+E:\School\CS50_csharp_clone\Mario\mario\obj\Debug\net8.0\ref\mario.dll
