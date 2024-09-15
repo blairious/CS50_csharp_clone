@@ -1,0 +1,15 @@
+E:\School\CS50_csharp_clone\helloitsme\bin\Debug\net8.0\helloitsme.exe
+E:\School\CS50_csharp_clone\helloitsme\bin\Debug\net8.0\helloitsme.deps.json
+E:\School\CS50_csharp_clone\helloitsme\bin\Debug\net8.0\helloitsme.runtimeconfig.json
+E:\School\CS50_csharp_clone\helloitsme\bin\Debug\net8.0\helloitsme.dll
+E:\School\CS50_csharp_clone\helloitsme\bin\Debug\net8.0\helloitsme.pdb
+E:\School\CS50_csharp_clone\helloitsme\obj\Debug\net8.0\helloitsme.GeneratedMSBuildEditorConfig.editorconfig
+E:\School\CS50_csharp_clone\helloitsme\obj\Debug\net8.0\helloitsme.AssemblyInfoInputs.cache
+E:\School\CS50_csharp_clone\helloitsme\obj\Debug\net8.0\helloitsme.AssemblyInfo.cs
+E:\School\CS50_csharp_clone\helloitsme\obj\Debug\net8.0\helloitsme.csproj.CoreCompileInputs.cache
+E:\School\CS50_csharp_clone\helloitsme\obj\Debug\net8.0\helloitsme.sourcelink.json
+E:\School\CS50_csharp_clone\helloitsme\obj\Debug\net8.0\helloitsme.dll
+E:\School\CS50_csharp_clone\helloitsme\obj\Debug\net8.0\refint\helloitsme.dll
+E:\School\CS50_csharp_clone\helloitsme\obj\Debug\net8.0\helloitsme.pdb
+E:\School\CS50_csharp_clone\helloitsme\obj\Debug\net8.0\helloitsme.genruntimeconfig.cache
+E:\School\CS50_csharp_clone\helloitsme\obj\Debug\net8.0\ref\helloitsme.dll
