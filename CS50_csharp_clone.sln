@@ -3,9 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.002.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Mario", "Mario", "{C0825DBC-9E91-4E19-94CE-142152043D3D}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mario", "Mario\mario\mario.csproj", "{081E6417-F674-4B0E-B97E-B0C140B540D3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Readability", "Readability\Readability.csproj", "{3E5A2F52-4E47-4762-A1A3-53C189FA7A49}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,18 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{081E6417-F674-4B0E-B97E-B0C140B540D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{081E6417-F674-4B0E-B97E-B0C140B540D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{081E6417-F674-4B0E-B97E-B0C140B540D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{081E6417-F674-4B0E-B97E-B0C140B540D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E5A2F52-4E47-4762-A1A3-53C189FA7A49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E5A2F52-4E47-4762-A1A3-53C189FA7A49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E5A2F52-4E47-4762-A1A3-53C189FA7A49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E5A2F52-4E47-4762-A1A3-53C189FA7A49}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D44673F2-F155-42DF-85D5-BEE4770E76BA}
-	EndGlobalSection
-	GlobalSection(NestedProjects) = preSolution
-		{081E6417-F674-4B0E-B97E-B0C140B540D3} = {C0825DBC-9E91-4E19-94CE-142152043D3D}
 	EndGlobalSection
 EndGlobal
